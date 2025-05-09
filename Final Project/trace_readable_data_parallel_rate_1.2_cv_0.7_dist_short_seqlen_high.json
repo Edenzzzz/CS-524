@@ -1,0 +1,1094 @@
+[
+  {
+    "name": "schedule_idx: 1",
+    "start_time": 0.00016641616821289062,
+    "end_time": 0.0007622241973876953,
+    "duration": 0.0005958080291748047,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[0], Steps:[10], BS:[4], Seq-Len:[1024]",
+    "start_time": 0.0013015270233154297,
+    "end_time": 2.4474294185638428,
+    "duration": 2.4461278915405273,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 2.4398110574111342,
+    "req_id": 0,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 2",
+    "start_time": 0.6247546672821045,
+    "end_time": 0.6252927780151367,
+    "duration": 0.0005381107330322266,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[1], Steps:[10], BS:[2], Seq-Len:[4096]",
+    "start_time": 0.6256716251373291,
+    "end_time": 5.105157852172852,
+    "duration": 4.4794862270355225,
+    "gpus": [
+      1
+    ],
+    "estimated_time": 4.462625184717278,
+    "req_id": 1,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 3",
+    "start_time": 1.2046120166778564,
+    "end_time": 1.2051358222961426,
+    "duration": 0.0005238056182861328,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[2], Steps:[10], BS:[1], Seq-Len:[256]",
+    "start_time": 1.205514907836914,
+    "end_time": 2.005535840988159,
+    "duration": 0.8000209331512451,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 0.788346244643132,
+    "req_id": 2,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 4",
+    "start_time": 1.7841932773590088,
+    "end_time": 1.7845392227172852,
+    "duration": 0.0003459453582763672,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[3], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 1.7849071025848389,
+    "end_time": 2.885133981704712,
+    "duration": 1.100226879119873,
+    "gpus": [
+      3
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 3,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 5",
+    "start_time": 3.709669828414917,
+    "end_time": 3.7101526260375977,
+    "duration": 0.00048279762268066406,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[4], Steps:[10], BS:[4], Seq-Len:[4096]",
+    "start_time": 3.7105181217193604,
+    "end_time": 12.384501218795776,
+    "duration": 8.673983097076416,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 8.656000752002,
+    "req_id": 4,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 6",
+    "start_time": 4.9016618728637695,
+    "end_time": 4.902108907699585,
+    "duration": 0.0004470348358154297,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[5], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 4.902478933334351,
+    "end_time": 6.003162145614624,
+    "duration": 1.1006832122802734,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 5,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 7",
+    "start_time": 5.376597881317139,
+    "end_time": 5.3770575523376465,
+    "duration": 0.0004596710205078125,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[6], Steps:[10], BS:[1], Seq-Len:[8192]",
+    "start_time": 5.377411603927612,
+    "end_time": 10.27569031715393,
+    "duration": 4.898278713226318,
+    "gpus": [
+      1
+    ],
+    "estimated_time": 4.892665072033803,
+    "req_id": 6,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 8192
+  },
+  {
+    "name": "schedule_idx: 8",
+    "start_time": 6.405700445175171,
+    "end_time": 6.406110048294067,
+    "duration": 0.0004096031188964844,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[7], Steps:[10], BS:[1], Seq-Len:[256]",
+    "start_time": 6.406469106674194,
+    "end_time": 7.199981451034546,
+    "duration": 0.7935123443603516,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 0.788346244643132,
+    "req_id": 7,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 9",
+    "start_time": 7.239131212234497,
+    "end_time": 7.239551067352295,
+    "duration": 0.00041985511779785156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[8], Steps:[10], BS:[2], Seq-Len:[1024]",
+    "start_time": 7.239901304244995,
+    "end_time": 8.558372259140015,
+    "duration": 1.3184709548950195,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 1.3070631346975765,
+    "req_id": 8,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 10",
+    "start_time": 7.33311915397644,
+    "end_time": 7.333547353744507,
+    "duration": 0.00042819976806640625,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[9], Steps:[10], BS:[1], Seq-Len:[2048]",
+    "start_time": 7.3338940143585205,
+    "end_time": 8.570056915283203,
+    "duration": 1.2361629009246826,
+    "gpus": [
+      3
+    ],
+    "estimated_time": 1.2314213011413813,
+    "req_id": 9,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 2048
+  },
+  {
+    "name": "schedule_idx: 11",
+    "start_time": 7.617283344268799,
+    "end_time": 7.617749452590942,
+    "duration": 0.0004661083221435547,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[10], Steps:[10], BS:[1], Seq-Len:[4096]",
+    "start_time": 7.61809229850769,
+    "end_time": 9.95809292793274,
+    "duration": 2.340000629425049,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 2.3274378459900618,
+    "req_id": 10,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 12",
+    "start_time": 8.497093677520752,
+    "end_time": 8.497512817382812,
+    "duration": 0.0004191398620605469,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[11], Steps:[10], BS:[2], Seq-Len:[1024]",
+    "start_time": 8.497869968414307,
+    "end_time": 9.813399076461792,
+    "duration": 1.3155291080474854,
+    "gpus": [
+      5
+    ],
+    "estimated_time": 1.3070631346975765,
+    "req_id": 11,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 13",
+    "start_time": 10.303958415985107,
+    "end_time": 10.304425477981567,
+    "duration": 0.00046706199645996094,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[12], Steps:[10], BS:[4], Seq-Len:[2048]",
+    "start_time": 10.304789543151855,
+    "end_time": 14.696135759353638,
+    "duration": 4.391346216201782,
+    "gpus": [
+      1
+    ],
+    "estimated_time": 4.365037402758996,
+    "req_id": 12,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 2048
+  },
+  {
+    "name": "schedule_idx: 14",
+    "start_time": 10.888637781143188,
+    "end_time": 10.889179944992065,
+    "duration": 0.0005421638488769531,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[13], Steps:[10], BS:[2], Seq-Len:[256]",
+    "start_time": 10.889560222625732,
+    "end_time": 11.64159870147705,
+    "duration": 0.7520384788513184,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 0.7397237252444029,
+    "req_id": 13,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 15",
+    "start_time": 11.333190441131592,
+    "end_time": 11.333588600158691,
+    "duration": 0.0003981590270996094,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[14], Steps:[10], BS:[1], Seq-Len:[2048]",
+    "start_time": 11.333937406539917,
+    "end_time": 12.5719633102417,
+    "duration": 1.2380259037017822,
+    "gpus": [
+      3
+    ],
+    "estimated_time": 1.2314213011413813,
+    "req_id": 14,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 2048
+  },
+  {
+    "name": "schedule_idx: 16",
+    "start_time": 12.091208696365356,
+    "end_time": 12.091632843017578,
+    "duration": 0.0004241466522216797,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[15], Steps:[10], BS:[1], Seq-Len:[4096]",
+    "start_time": 12.091986417770386,
+    "end_time": 14.429685115814209,
+    "duration": 2.3376986980438232,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 2.3274378459900618,
+    "req_id": 15,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 17",
+    "start_time": 12.513937950134277,
+    "end_time": 12.514350891113281,
+    "duration": 0.00041294097900390625,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[16], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 12.514702558517456,
+    "end_time": 13.622276067733765,
+    "duration": 1.1075735092163086,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 16,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 18",
+    "start_time": 13.067585468292236,
+    "end_time": 13.068012952804565,
+    "duration": 0.00042748451232910156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[17], Steps:[10], BS:[4], Seq-Len:[16384]",
+    "start_time": 13.068374156951904,
+    "end_time": 61.95405316352844,
+    "duration": 48.88567900657654,
+    "gpus": [
+      3
+    ],
+    "estimated_time": 48.833400100159146,
+    "req_id": 17,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 16384
+  },
+  {
+    "name": "schedule_idx: 19",
+    "start_time": 13.758519172668457,
+    "end_time": 13.758949041366577,
+    "duration": 0.0004298686981201172,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[18], Steps:[10], BS:[1], Seq-Len:[1024]",
+    "start_time": 13.759299039840698,
+    "end_time": 14.518130540847778,
+    "duration": 0.7588315010070801,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 0.7524126333494983,
+    "req_id": 18,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 20",
+    "start_time": 14.02949047088623,
+    "end_time": 14.029889106750488,
+    "duration": 0.0003986358642578125,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[19], Steps:[10], BS:[2], Seq-Len:[4096]",
+    "start_time": 14.030236005783081,
+    "end_time": 18.500854015350342,
+    "duration": 4.470618009567261,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 4.462625184717278,
+    "req_id": 19,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 21",
+    "start_time": 15.263972759246826,
+    "end_time": 15.264444351196289,
+    "duration": 0.0004715919494628906,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[20], Steps:[10], BS:[2], Seq-Len:[256]",
+    "start_time": 15.264837741851807,
+    "end_time": 16.012752532958984,
+    "duration": 0.7479147911071777,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 0.7397237252444029,
+    "req_id": 20,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 22",
+    "start_time": 15.49131441116333,
+    "end_time": 15.491730213165283,
+    "duration": 0.000415802001953125,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[21], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 15.492090225219727,
+    "end_time": 16.595561742782593,
+    "duration": 1.1034715175628662,
+    "gpus": [
+      1
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 21,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 23",
+    "start_time": 15.692413091659546,
+    "end_time": 15.692817687988281,
+    "duration": 0.00040459632873535156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[22], Steps:[10], BS:[2], Seq-Len:[1024]",
+    "start_time": 15.693193674087524,
+    "end_time": 17.012596368789673,
+    "duration": 1.3194026947021484,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 1.3070631346975765,
+    "req_id": 22,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 24",
+    "start_time": 16.500389575958252,
+    "end_time": 16.500794649124146,
+    "duration": 0.0004050731658935547,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[23], Steps:[10], BS:[2], Seq-Len:[1024]",
+    "start_time": 16.50117325782776,
+    "end_time": 17.820403337478638,
+    "duration": 1.319230079650879,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 1.3070631346975765,
+    "req_id": 23,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 25",
+    "start_time": 17.67019248008728,
+    "end_time": 17.670411109924316,
+    "duration": 0.0002186298370361328,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[24], Steps:[10], BS:[1], Seq-Len:[2048]",
+    "start_time": 17.6706805229187,
+    "end_time": 18.90845251083374,
+    "duration": 1.237771987915039,
+    "gpus": [
+      1
+    ],
+    "estimated_time": 1.2314213011413813,
+    "req_id": 24,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 2048
+  },
+  {
+    "name": "schedule_idx: 26",
+    "start_time": 18.463178634643555,
+    "end_time": 18.463591814041138,
+    "duration": 0.0004131793975830078,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[25], Steps:[10], BS:[4], Seq-Len:[16384]",
+    "start_time": 18.463942289352417,
+    "end_time": 67.35504102706909,
+    "duration": 48.891098737716675,
+    "gpus": [
+      0
+    ],
+    "estimated_time": 48.833400100159146,
+    "req_id": 25,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 16384
+  },
+  {
+    "name": "schedule_idx: 27",
+    "start_time": 19.100793838500977,
+    "end_time": 19.101229667663574,
+    "duration": 0.00043582916259765625,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[26], Steps:[10], BS:[4], Seq-Len:[16384]",
+    "start_time": 19.101589918136597,
+    "end_time": 67.99428057670593,
+    "duration": 48.892690658569336,
+    "gpus": [
+      1
+    ],
+    "estimated_time": 48.833400100159146,
+    "req_id": 26,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 16384
+  },
+  {
+    "name": "schedule_idx: 28",
+    "start_time": 19.649248600006104,
+    "end_time": 19.64965057373047,
+    "duration": 0.0004019737243652344,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[27], Steps:[10], BS:[4], Seq-Len:[2048]",
+    "start_time": 19.65000057220459,
+    "end_time": 24.03167486190796,
+    "duration": 4.381674289703369,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 4.365037402758996,
+    "req_id": 27,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 2048
+  },
+  {
+    "name": "schedule_idx: 29",
+    "start_time": 20.129323482513428,
+    "end_time": 20.129552125930786,
+    "duration": 0.00022864341735839844,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[28], Steps:[10], BS:[1], Seq-Len:[256]",
+    "start_time": 20.12974524497986,
+    "end_time": 20.93132734298706,
+    "duration": 0.8015820980072021,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 0.788346244643132,
+    "req_id": 28,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 30",
+    "start_time": 21.556092500686646,
+    "end_time": 21.556508779525757,
+    "duration": 0.0004162788391113281,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[29], Steps:[10], BS:[1], Seq-Len:[256]",
+    "start_time": 21.55687165260315,
+    "end_time": 22.352121114730835,
+    "duration": 0.7952494621276855,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 0.788346244643132,
+    "req_id": 29,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 31",
+    "start_time": 22.441349506378174,
+    "end_time": 22.44175362586975,
+    "duration": 0.00040411949157714844,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[30], Steps:[10], BS:[1], Seq-Len:[1024]",
+    "start_time": 22.442102193832397,
+    "end_time": 23.207111597061157,
+    "duration": 0.7650094032287598,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 0.7524126333494983,
+    "req_id": 30,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 32",
+    "start_time": 22.951691389083862,
+    "end_time": 22.952126502990723,
+    "duration": 0.00043511390686035156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[31], Steps:[10], BS:[2], Seq-Len:[8192]",
+    "start_time": 22.95247745513916,
+    "end_time": 32.66608238220215,
+    "duration": 9.713604927062988,
+    "gpus": [
+      5
+    ],
+    "estimated_time": 9.690887334756553,
+    "req_id": 31,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 8192
+  },
+  {
+    "name": "schedule_idx: 33",
+    "start_time": 23.34635066986084,
+    "end_time": 23.346758365631104,
+    "duration": 0.0004076957702636719,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[32], Steps:[10], BS:[2], Seq-Len:[1024]",
+    "start_time": 23.34710693359375,
+    "end_time": 24.658259868621826,
+    "duration": 1.3111529350280762,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 1.3070631346975765,
+    "req_id": 32,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 34",
+    "start_time": 24.423176527023315,
+    "end_time": 24.423603534698486,
+    "duration": 0.00042700767517089844,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[33], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 24.423945903778076,
+    "end_time": 25.524572610855103,
+    "duration": 1.1006267070770264,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 33,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 35",
+    "start_time": 25.828007698059082,
+    "end_time": 25.828445196151733,
+    "duration": 0.0004374980926513672,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[34], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 25.828811645507812,
+    "end_time": 26.93563938140869,
+    "duration": 1.106827735900879,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 34,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 36",
+    "start_time": 27.15009093284607,
+    "end_time": 27.15052890777588,
+    "duration": 0.0004379749298095703,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[35], Steps:[10], BS:[1], Seq-Len:[4096]",
+    "start_time": 27.15089178085327,
+    "end_time": 29.48947548866272,
+    "duration": 2.3385837078094482,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 2.3274378459900618,
+    "req_id": 35,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 37",
+    "start_time": 27.48846936225891,
+    "end_time": 27.488874197006226,
+    "duration": 0.0004048347473144531,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[36], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 27.489251375198364,
+    "end_time": 28.587482452392578,
+    "duration": 1.0982310771942139,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 36,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 38",
+    "start_time": 28.03288698196411,
+    "end_time": 28.033309936523438,
+    "duration": 0.0004229545593261719,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[37], Steps:[10], BS:[4], Seq-Len:[4096]",
+    "start_time": 28.033650159835815,
+    "end_time": 36.6987030506134,
+    "duration": 8.665052890777588,
+    "gpus": [
+      6
+    ],
+    "estimated_time": 8.656000752002,
+    "req_id": 37,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 39",
+    "start_time": 28.504230737686157,
+    "end_time": 28.50463581085205,
+    "duration": 0.0004050731658935547,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[38], Steps:[10], BS:[1], Seq-Len:[4096]",
+    "start_time": 28.5050208568573,
+    "end_time": 30.844349145889282,
+    "duration": 2.3393282890319824,
+    "gpus": [
+      7
+    ],
+    "estimated_time": 2.3274378459900618,
+    "req_id": 38,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 40",
+    "start_time": 29.107123613357544,
+    "end_time": 29.10751485824585,
+    "duration": 0.00039124488830566406,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[39], Steps:[10], BS:[1], Seq-Len:[1024]",
+    "start_time": 29.10785984992981,
+    "end_time": 29.87020492553711,
+    "duration": 0.7623450756072998,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 0.7524126333494983,
+    "req_id": 39,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 41",
+    "start_time": 30.334474086761475,
+    "end_time": 30.334614992141724,
+    "duration": 0.00014090538024902344,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[40], Steps:[10], BS:[2], Seq-Len:[8192]",
+    "start_time": 30.33473014831543,
+    "end_time": 40.04258584976196,
+    "duration": 9.707855701446533,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 9.690887334756553,
+    "req_id": 40,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 8192
+  },
+  {
+    "name": "schedule_idx: 42",
+    "start_time": 32.03559851646423,
+    "end_time": 32.036011695861816,
+    "duration": 0.0004131793975830078,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[41], Steps:[10], BS:[1], Seq-Len:[1024]",
+    "start_time": 32.03637480735779,
+    "end_time": 32.793850898742676,
+    "duration": 0.7574760913848877,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 0.7524126333494983,
+    "req_id": 41,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 43",
+    "start_time": 32.94311165809631,
+    "end_time": 32.94351363182068,
+    "duration": 0.0004019737243652344,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[42], Steps:[10], BS:[1], Seq-Len:[1024]",
+    "start_time": 32.94386839866638,
+    "end_time": 33.69969654083252,
+    "duration": 0.7558281421661377,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 0.7524126333494983,
+    "req_id": 42,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 1024
+  },
+  {
+    "name": "schedule_idx: 44",
+    "start_time": 33.34928631782532,
+    "end_time": 33.34968376159668,
+    "duration": 0.0003974437713623047,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[43], Steps:[10], BS:[2], Seq-Len:[4096]",
+    "start_time": 33.350029945373535,
+    "end_time": 37.82606911659241,
+    "duration": 4.476039171218872,
+    "gpus": [
+      5
+    ],
+    "estimated_time": 4.462625184717278,
+    "req_id": 43,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 45",
+    "start_time": 34.02811861038208,
+    "end_time": 34.02851581573486,
+    "duration": 0.0003972053527832031,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[44], Steps:[10], BS:[2], Seq-Len:[8192]",
+    "start_time": 34.028865575790405,
+    "end_time": 43.736876010894775,
+    "duration": 9.70801043510437,
+    "gpus": [
+      4
+    ],
+    "estimated_time": 9.690887334756553,
+    "req_id": 44,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 8192
+  },
+  {
+    "name": "schedule_idx: 46",
+    "start_time": 35.939003229141235,
+    "end_time": 35.9394268989563,
+    "duration": 0.00042366981506347656,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[45], Steps:[10], BS:[4], Seq-Len:[256]",
+    "start_time": 35.93979096412659,
+    "end_time": 37.043540239334106,
+    "duration": 1.1037492752075195,
+    "gpus": [
+      7
+    ],
+    "estimated_time": 1.0942418379709125,
+    "req_id": 45,
+    "bs": 4,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 47",
+    "start_time": 36.69906520843506,
+    "end_time": 36.699432373046875,
+    "duration": 0.00036716461181640625,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[46], Steps:[10], BS:[2], Seq-Len:[4096]",
+    "start_time": 36.699897050857544,
+    "end_time": 41.21661734580994,
+    "duration": 4.516720294952393,
+    "gpus": [
+      6
+    ],
+    "estimated_time": 4.462625184717278,
+    "req_id": 46,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 48",
+    "start_time": 37.23182415962219,
+    "end_time": 37.23221755027771,
+    "duration": 0.0003933906555175781,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[47], Steps:[10], BS:[2], Seq-Len:[4096]",
+    "start_time": 37.23257112503052,
+    "end_time": 41.70427918434143,
+    "duration": 4.471708059310913,
+    "gpus": [
+      7
+    ],
+    "estimated_time": 4.462625184717278,
+    "req_id": 47,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 4096
+  },
+  {
+    "name": "schedule_idx: 49",
+    "start_time": 37.82641863822937,
+    "end_time": 37.82681107521057,
+    "duration": 0.0003924369812011719,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[48], Steps:[10], BS:[2], Seq-Len:[2048]",
+    "start_time": 37.82728171348572,
+    "end_time": 40.18129634857178,
+    "duration": 2.3540146350860596,
+    "gpus": [
+      5
+    ],
+    "estimated_time": 2.30178429496785,
+    "req_id": 48,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 2048
+  },
+  {
+    "name": "schedule_idx: 50",
+    "start_time": 40.042967319488525,
+    "end_time": 40.04336428642273,
+    "duration": 0.00039696693420410156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[49], Steps:[10], BS:[1], Seq-Len:[256]",
+    "start_time": 40.04388213157654,
+    "end_time": 40.8824508190155,
+    "duration": 0.8385686874389648,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 0.788346244643132,
+    "req_id": 49,
+    "bs": 1,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 51",
+    "start_time": 40.18164849281311,
+    "end_time": 40.18202257156372,
+    "duration": 0.00037407875061035156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[50], Steps:[10], BS:[2], Seq-Len:[256]",
+    "start_time": 40.18250131607056,
+    "end_time": 40.97272539138794,
+    "duration": 0.7902240753173828,
+    "gpus": [
+      5
+    ],
+    "estimated_time": 0.7397237252444029,
+    "req_id": 50,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 256
+  },
+  {
+    "name": "schedule_idx: 52",
+    "start_time": 40.88279986381531,
+    "end_time": 40.88316631317139,
+    "duration": 0.00036644935607910156,
+    "gpus": []
+  },
+  {
+    "name": "ReqId:[51], Steps:[10], BS:[2], Seq-Len:[1024]",
+    "start_time": 40.883647441864014,
+    "end_time": 42.24138307571411,
+    "duration": 1.3577356338500977,
+    "gpus": [
+      2
+    ],
+    "estimated_time": 1.3070631346975765,
+    "req_id": 51,
+    "bs": 2,
+    "steps": 10,
+    "seq_len": 1024
+  }
+]
